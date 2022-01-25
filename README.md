@@ -1,2 +1,2 @@
 # pocket-calculator
-A pocket calculator in React
+A simple pocket calculator made using [React](https://reactjs.org).
