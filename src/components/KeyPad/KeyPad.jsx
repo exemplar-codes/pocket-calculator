@@ -6,7 +6,7 @@ import OnKey from "./Buttons/MiscKey/ClearKey/ClearKey";
 import OffKey from "./Buttons/MiscKey/OffKey/OffKey";
 
 import MinusKey from "./Buttons/OperatorKey/OperatorKey";
-import AddKey from "./Buttons/OperatorKey/AddKey";
+import PlusKey from "./Buttons/OperatorKey/PlusKey";
 import DivideKey from "./Buttons/OperatorKey/DivideKey";
 import MultiplyKey from "./Buttons/OperatorKey/MultiplyKey";
 
@@ -29,7 +29,7 @@ const KeyPad = () => {
       <NumberKey number="4" />
       <NumberKey number="5" />
       <NumberKey number="6" />
-      <AddKey className="add-grid" />
+      <PlusKey className="plus-grid" />
       <NumberKey number="1" />
       <NumberKey number="2" />
       <NumberKey number="3" />

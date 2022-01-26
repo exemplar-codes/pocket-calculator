@@ -5,3 +5,7 @@
   grid-template-rows: repeat(5, auto);
   grid-template-columns: repeat(4, auto);
 }
+
+.plus-grid {
+    grid-row: span;
+}
