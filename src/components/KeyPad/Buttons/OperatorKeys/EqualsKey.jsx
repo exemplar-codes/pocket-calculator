@@ -8,7 +8,7 @@ const EqualsKey = ({className}) => {
   return (
     <Button
       text={text}
-      width={200}
+      width={210}
       height={100}
       color="white"
       bgColor="#69E57D"
