@@ -5,15 +5,15 @@ import "./KeyPad.css";
 import OnKey from "./Buttons/MiscKey/ClearKey/ClearKey";
 import OffKey from "./Buttons/MiscKey/OffKey/OffKey";
 
-import MinusKey from "./Buttons/OperatorKey/OperatorKey";
-import PlusKey from "./Buttons/OperatorKey/PlusKey";
-import DivideKey from "./Buttons/OperatorKey/DivideKey";
-import MultiplyKey from "./Buttons/OperatorKey/MultiplyKey";
+import MinusKey from "./Buttons/OperatorKeys/OperatorKey";
+import PlusKey from "./Buttons/OperatorKeys/PlusKey";
+import DivideKey from "./Buttons/OperatorKeys/DivideKey";
+import MultiplyKey from "./Buttons/OperatorKeys/MultiplyKey";
 
 import NumberKey from "./Buttons/NumberKey/NumberKey";
 
-import PointKey from "./Buttons/OperatorKey/PointKey";
-import EqualsKey from "./Buttons/OperatorKey/EqualsKey";
+import PointKey from "./Buttons/OperatorKeys/PointKey";
+import EqualsKey from "./Buttons/OperatorKeys/EqualsKey";
 
 const KeyPad = () => {
   return (
