@@ -1,0 +1,7 @@
+.keypad {
+  background-color: #b16f6f;
+  display: grid;
+  padding: 5px;
+  grid-template-rows: repeat(5, auto);
+  grid-template-columns: repeat(4, auto);
+}
