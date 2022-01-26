@@ -1,0 +1,14 @@
+.display {
+  width: 450px;
+  height: 100px;
+  font-family: "Let's go digital";
+  background-color: #d0d1a2;
+  color: black;
+  padding: 20px;
+  font-size: 84px;
+  border-radius: 10px;
+
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
