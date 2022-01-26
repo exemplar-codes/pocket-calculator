@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 import Button from "../Button/Button";
 
 // For *, - and division
-const OperatorKey = ({ symbol, width, height }) => {
+const OperatorKey = ({ symbol, width, height, className }) => {
   return (
     <Button
       text={symbol}
@@ -12,6 +12,7 @@ const OperatorKey = ({ symbol, width, height }) => {
       color="#485F9B"
       width={width}
       height={height}
+      className={className}
     />
   );
 };

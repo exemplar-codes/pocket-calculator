@@ -35,7 +35,7 @@ const KeyPad = () => {
       <NumberKey number="3" />
       <NumberKey number="0" />
       <PointKey />
-      <EqualsKey className="equal-grid" />
+      <EqualsKey className="equals-grid" />
     </div>
   );
 };

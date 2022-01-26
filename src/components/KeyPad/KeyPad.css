@@ -2,10 +2,16 @@
   background-color: #b16f6f;
   display: grid;
   padding: 5px;
-  grid-template-rows: repeat(5, auto);
-  grid-template-columns: repeat(4, auto);
+  grid-template-columns: repeat(4, max-content);
+  width: fit-content;
 }
 
 .plus-grid {
-    grid-row: span;
+    grid-row: 3 / 5;
+    grid-column: 4;
+}
+
+.equals-grid {
+    grid-column: 3 / 5;
+    grid-row: 5;
 }

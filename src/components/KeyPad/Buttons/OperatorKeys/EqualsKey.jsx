@@ -2,7 +2,7 @@ import React from "react";
 
 import Button from "../Button/Button";
 
-const EqualsKey = () => {
+const EqualsKey = ({className}) => {
   let text = <div style={{ position: "relative", bottom: "5%" }}>=</div>;
 
   return (
@@ -12,6 +12,7 @@ const EqualsKey = () => {
       height={100}
       color="white"
       bgColor="#69E57D"
+      className={className}
     />
   );
 };
