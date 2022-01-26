@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pocket-calculator/static/css/main.3c5412f1.css",
+    "main.js": "/pocket-calculator/static/js/main.1c2a64ea.js",
+    "index.html": "/pocket-calculator/index.html",
+    "main.3c5412f1.css.map": "/pocket-calculator/static/css/main.3c5412f1.css.map",
+    "main.1c2a64ea.js.map": "/pocket-calculator/static/js/main.1c2a64ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c5412f1.css",
+    "static/js/main.1c2a64ea.js"
+  ]
+}
