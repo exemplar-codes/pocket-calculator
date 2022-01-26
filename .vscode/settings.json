@@ -9,5 +9,6 @@
         "**/README*": true,
         "**/public/": true,
         "**/.vscode/": true,
+        "**/Figma*": true
     }
 }
